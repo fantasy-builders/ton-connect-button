@@ -1,1 +1,1 @@
-# ton-connect-button
+This is latest version of TON wallet connect.
